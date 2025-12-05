@@ -12,8 +12,8 @@ I’m currently a Business student and work on various website development proje
 ⸻
 
 ❤️ Things I Enjoy
-	•	☕ Drinking good coffee
-	•	💪 Going to the gym
-	•	🎮 Gaming
-	•	📺 Watching anime
-	•	🧠 Learning new tech & creative skills
+	•	 Drinking good coffee
+	•	 Going to the gym
+	•	 Gaming
+	•	 Watching anime
+	•	 Learning new tech & creative skills
