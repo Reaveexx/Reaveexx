@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Reaveexx/Reaveexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maxim, I’m 22 years old, and I live in Germany.
+I’m currently a Business student and work on various website development projects in my free time.
 
-Here are some ideas to get you started:
+✨ Focus Areas
+	•	Modern website development
+	•	Clean and minimalistic design
+	•	Programming with C/C++
+	•	Building practical projects to improve my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+❤️ Things I Enjoy
+	•	☕ Drinking good coffee
+	•	💪 Going to the gym
+	•	🎮 Gaming
+	•	📺 Watching anime
+	•	🧠 Learning new tech & creative skills
