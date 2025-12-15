@@ -18,3 +18,5 @@ I’m currently a Business student and work on various website development proje
 	•	 Going to the gym
 	•	 Gaming
 	•	 Learning new tech & creative skills
+	•	 reading books
+	
